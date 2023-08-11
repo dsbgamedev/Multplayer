@@ -1,0 +1,16 @@
+1 - Criando o Player jogo
+	1.1 - Criando sprite do Player - FEITO
+	1.2 - Criando o objeto do Player - FEITO
+	1.3 - Fazendo o player andar para os lados - FEITO
+	1.4 - Player atirar na direção do player dois - FEITO
+	1.5 - Avisando para o tiro que eu sou o pai dele - FEITO
+
+3 - Tiro
+	1.1 - Destruindo o bloco e me destruindo - FEITO
+	1.2 - Destruindo o tiro ao sair da room - FEITO
+	1.3 - Me destruindo SE o cara que eu colidir não é o meu pai - FEITO
+	
+4 - Ganhar Pontos
+	
+	
+	
