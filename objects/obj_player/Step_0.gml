@@ -24,4 +24,7 @@ if(keyboard_check_pressed(vk_space))
 	_tiro.vspeed = image_yscale * -10;
 }
 
+//Impedindo que o Player saia fora da tela
+x = clamp(x,0 + sprite_width / 2, room_width - sprite_width/2);
+
 
