@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.7",
-  "name": "Modulo 14 MultiPlayer",
+  "name": "Multiplayer",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -34,6 +34,15 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
+    {"id":{"name":"Pontos","path":"objects/Pontos/Pontos.yy",},},
+    {"id":{"name":"obj_bloco","path":"objects/obj_bloco/obj_bloco.yy",},},
+    {"id":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
+    {"id":{"name":"spr_blocos","path":"sprites/spr_blocos/spr_blocos.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

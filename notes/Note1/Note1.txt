@@ -1,0 +1,23 @@
+1 - Criando o Player jogo
+	1.1 - Criando sprite do Player - FEITO
+	1.2 - Criando o objeto do Player - FEITO
+	1.3 - Fazendo o player andar para os lados - FEITO
+	1.4 - Player atirar na direção do player dois - FEITO
+	1.5 - Avisando para o tiro que eu sou o pai dele - FEITO
+	1.6 - Impedindo o player de sair da tela - FEITO
+	
+3 - Tiro
+	1.1 - Destruindo o bloco e me destruindo - FEITO
+	1.2 - Destruindo o tiro ao sair da room - FEITO
+	1.3 - Me destruindo SE o cara que eu colidir não é o meu pai - FEITO
+	
+4 - Ganhando Pontos
+	1.1 - Objeto Bloco, Se eu estou no topo da room, eu dou ponto para o player 2, se estou embaixo ponto para o player 1 - FEITO
+	1.1 - Criando variaveis global no script - FEITO
+	1.2 - Criando objeto Ponto e desenhando os pontos - FEITO
+
+5 - Criando blocos	
+	1.1 - Criar um objeto SENSOR -FEITO
+	1.2 - Adicionar o objeto na ROOM e deixar ele invisivel - FEITO
+	1.3 - Verificar se esta colidindo com os blocos - *
+	
