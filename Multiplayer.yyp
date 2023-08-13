@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},},
+    {"id":{"name":"Note2","path":"notes/Note2/Note2.yy",},},
     {"id":{"name":"Pontos","path":"objects/Pontos/Pontos.yy",},},
     {"id":{"name":"obj_bloco","path":"objects/obj_bloco/obj_bloco.yy",},},
     {"id":{"name":"obj_sensor","path":"objects/obj_sensor/obj_sensor.yy",},},

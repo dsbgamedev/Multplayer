@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_tiro","order":1,"path":"objects/obj_tiro/obj_tiro.yy",},
+    {"name":"Note2","order":1,"path":"notes/Note2/Note2.yy",},
     {"name":"Pontos","order":3,"path":"objects/Pontos/Pontos.yy",},
     {"name":"obj_bloco","order":2,"path":"objects/obj_bloco/obj_bloco.yy",},
     {"name":"obj_sensor","order":4,"path":"objects/obj_sensor/obj_sensor.yy",},
