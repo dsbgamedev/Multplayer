@@ -1,19 +1,23 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+//Usando os inputs do multiplayer
+var _controles = rollback_get_input();
+
+
 //Fazendo o layer andar para os lados
-if(keyboard_check(vk_left))
+if(_controles.left)
 {
 	x -= 5;
 }
 
-if(keyboard_check(vk_right))
+if(_controles.right)
 {
 	x += 5;
 }
 
 //Atirando
-if(keyboard_check_pressed(vk_space))
+if(_controles.space_pressed)
 {
 	//Criando o tiro
 	var _tiro = instance_create_layer(x,y,layer,obj_tiro);

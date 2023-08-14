@@ -12,7 +12,7 @@ var _conectou = rollback_join_game();
 //Ainda não conectou no jogo, quer dizer que posso criar o jogo
 if(! _conectou)
 {
-	rollback_create_game(2,1);
+	rollback_create_game(2,0);
 }
 
 

@@ -27,5 +27,6 @@
 	1.3 - Criando a conexão multiplayer de fato - FEITO
 	1.4 - Fazendo o player fica na posição correta na room
 		1.4.1 - Player 0 vai ficar na parte de cima da room player 1 na parte de baixo - FEITO
+		1.4.2 - Usando o rollback_get_input para utilizar nos movimentos e tiros dos jgoadors - FEITO
 		
 		
