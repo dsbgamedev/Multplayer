@@ -41,6 +41,7 @@
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_tiro","path":"sprites/spr_tiro/spr_tiro.yy",},},
     {"id":{"name":"spr_blocos","path":"sprites/spr_blocos/spr_blocos.yy",},},
+    {"id":{"name":"obj_multiplayer","path":"objects/obj_multiplayer/obj_multiplayer.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},

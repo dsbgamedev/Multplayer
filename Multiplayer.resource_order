@@ -23,5 +23,6 @@
     {"name":"obj_sensor","order":4,"path":"objects/obj_sensor/obj_sensor.yy",},
     {"name":"spr_tiro","order":1,"path":"sprites/spr_tiro/spr_tiro.yy",},
     {"name":"spr_blocos","order":2,"path":"sprites/spr_blocos/spr_blocos.yy",},
+    {"name":"obj_multiplayer","order":5,"path":"objects/obj_multiplayer/obj_multiplayer.yy",},
   ],
 }

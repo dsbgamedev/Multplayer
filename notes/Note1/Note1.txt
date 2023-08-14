@@ -19,5 +19,13 @@
 5 - Criando blocos	
 	1.1 - Criar um objeto SENSOR -FEITO
 	1.2 - Adicionar o objeto na ROOM e deixar ele invisivel - FEITO
-	1.3 - Verificar se esta colidindo com os blocos - *
-	
+	1.3 - Verificar se esta colidindo com os blocos - FEITO
+
+6 - Criando o multiplayer
+	1.1 - Criar um objeto multiplayer(Tem que ter o Managed) - FEITO
+	1.2 - Colocar o objeto na room - FEITO
+	1.3 - Criando a conexão multiplayer de fato - FEITO
+	1.4 - Fazendo o player fica na posição correta na room
+		1.4.1 - Player 0 vai ficar na parte de cima da room player 1 na parte de baixo - FEITO
+		
+		
